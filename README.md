@@ -40,7 +40,7 @@ You can edit the script to change:
 ## 📦 Installation
 
 Install via:
-- [GreasyFork](https://greasyfork.org/en/scripts/541961-window-locked-hud/code) *(if published)*
+- [GreasyFork](https://greasyfork.org/en/scripts/541961-window-locked-hud/) *(if published)*
 - Or add the `.user.js` script directly to **Tampermonkey**
 
 ## 🧑‍💻 Author
