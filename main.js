@@ -2,7 +2,7 @@
 // @name         WINDOW_LOCKED_HUD
 // @namespace    http://tampermonkey.net/
 // @version      2024-04-01
-// @description  try to take over the world!
+// @description  Locks the current browser window with a password-protected overlay. Press Ctrl + . to activate. If no password is set, you’ll be prompted to create one.
 // @author       You
 // @match        *://*/*
 // @grant        none
